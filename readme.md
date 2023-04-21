@@ -22,19 +22,19 @@ Curso: Software Básico, Prof. Terigi Scardovelli.</i>
 
 [📚 exercicio_9](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio9.py)<h/6>
 
-[📚 exercicio_10](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio10.p)y<h/6>
+[📚 exercicio_10](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio10.py)<h/6>
 
-[📚 exercicio_11](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio11.p)y<h/6>
+[📚 exercicio_11](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio11.py)<h/6>
 
-[📚 exercicio_12](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio12.p)y<h/6>
+[📚 exercicio_12](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio12.py)<h/6>
 
-[📚 exercicio_13](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio13.p)y<h/6>
+[📚 exercicio_13](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio13.py)<h/6>
 
-[📚 exercicio_14](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio14.p)y<h/6>
+[📚 exercicio_14](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio14.py)<h/6>
 
-[📚 exercicio_15](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio15.p)y<h/6>
+[📚 exercicio_15](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio15.py)<h/6>
 
-[📚 exercicio_16](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio16.p)y<h/6>
+[📚 exercicio_16](https://github.com/LucasTadaieski/Lista2-Estrutura-Sequencial-Python/blob/main/exercicio16.py)<h/6>
 
 
 
